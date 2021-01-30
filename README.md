@@ -17,6 +17,6 @@ The above figure demonstrates the time series of the weekly total fare of the th
 
 ## Summary:
 Based on the above analysis, it seems that the drivers in urban area is at or even over the saturation level, whereas the situation is unclear for the other 2 areas. Several possible actions could be helpful in the current scenario:
-1. Advertising more in the urban area to increase the ride. Although contributing the majority of the revenue, the performance in urban area is not necessarily efficient. The urban area has lower rides per driver ratio than both of the other two, thus the driver in the urban area is at a great extent idle.
+1. Advertising more in the urban area to increase the number of rides. Although contributing the majority of the revenue, the performance in urban area is not necessarily efficient. The urban area has lower rides per driver ratio than both of the other two, thus the driver in the urban area is at a great extent idle.
 2. Halting the recruitment of new drivers in the urban area. Although the urban area is the biggest market, the future profitability under the current situation is unclear. Further expansion may lead to negative results.
 3. Doing more research on the profit margin of all three areas. The current available data only contains revenues, but without the information of costs in different regions, it is hard to draw further conclusion.
